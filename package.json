@@ -17,5 +17,8 @@
     "@vitejs/plugin-react": "latest",
     "vercel": "^48.1.0",
     "vite": "latest"
+  },
+  "engines": {
+    "node": "22.x"
   }
 }
