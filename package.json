@@ -1,0 +1,21 @@
+{
+  "name": "busy-chatbot",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "viteSSS",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "openai": "^1.75.0",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vercel": "^48.1.0",
+    "vite": "latest"
+  }
+}
